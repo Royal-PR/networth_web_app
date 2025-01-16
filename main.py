@@ -12,6 +12,8 @@ df = pd.DataFrame({
 })
 
 
+'sddsd'
+
 
 st.title("Networth Tracker")
 
